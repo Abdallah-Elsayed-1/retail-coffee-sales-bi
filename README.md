@@ -17,6 +17,19 @@
 <hr />
 <br />
 
+<h2>🚪 Executive Landing & Navigation Portal</h2>
+<p>
+  The main entry point to the analytics suite, engineered with an intuitive navigation portal allowing business stakeholders to seamlessly access core performance layers:
+</p>
+
+<div align="center">
+  <img src="https://i.postimg.cc/MHRRSQzT/login.png" alt="Coffee Shop Analytics Navigation Landing" width="100%" />
+</div>
+
+<br />
+<hr />
+<br />
+
 <h2>📌 Project Overview</h2>
 <p>
   This project delivers an interactive <b>Coffee Shop Sales & Operations Intelligence Solution</b> developed in Power BI. It is engineered for retail branch managers and commercial strategists to evaluate sales trajectory, examine unit movement across beverage and bakery categories, compare store performance across locations (Astoria, Lower Manhattan, Hell's Kitchen), and review line-item transactions.
@@ -27,8 +40,8 @@
 
 <br />
 
-<h2>📊 Executive Dashboard Preview</h2>
-<p>The primary executive command center featuring multi-location sales distribution, revenue progression trends, and top product categories:</p>
+<h2>📊 Executive Dashboard Overview</h2>
+<p>The primary strategic command center featuring multi-location sales distribution, revenue progression trends, and top product categories:</p>
 
 <div align="center">
   <img src="https://i.postimg.cc/PJZZjwTB/excutive-over-View.png" alt="Coffee Shop Executive Overview" width="100%" />
@@ -110,24 +123,11 @@
 
 <h2>🎯 Detailed Navigation & Analytical Modules</h2>
 
-<h3>1. Report Navigation Portal & Scorecard Overview</h3>
-<p>Intuitive page routing alongside a consolidated KPI matrix for operational reviews:</p>
+<h3>1. Consolidated KPIs Scorecard</h3>
+<p>Quick-reference operational scorecard tracking key business metrics and store baseline averages:</p>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <h4>Landing Page Navigation Portal</h4>
-        <img src="https://i.postimg.cc/MHRRSQzT/login.png" width="95%" alt="Navigation Landing Page" />
-        <p align="left"><small>Custom UI buttons routing to core diagnostic views.</small></p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h4>Consolidated KPIs Matrix</h4>
-        <img src="https://i.postimg.cc/sXbSqcCy/dax-measuers.png" width="95%" alt="KPIs Overview Matrix" />
-        <p align="left"><small>Unified card board for store averages and growth rates.</small></p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.postimg.cc/sXbSqcCy/dax-measuers.png" alt="KPIs Overview Matrix" width="95%" />
 </div>
 
 <br />
